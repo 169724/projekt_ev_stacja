@@ -1,0 +1,156 @@
+czas,krok,sesja_id,pojazd,zdarzenie,opis
+03:15,13,EV-027,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+03:15,13,EV-027,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+03:15,13,EV-027,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 94.7 kW, SOC: 0.770."
+03:30,14,EV-027,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 22.25 kWh.
+04:15,17,EV-009,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+04:15,17,EV-009,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+04:15,17,EV-009,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.592."
+04:30,18,EV-009,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 86.8 kW, SOC: 0.789."
+04:45,19,EV-009,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 49.31 kWh.
+05:45,23,EV-030,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+05:45,23,EV-030,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+05:45,23,EV-030,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.745."
+06:00,24,EV-030,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 27.0 kW, SOC: 0.786."
+06:15,25,EV-030,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 35.25 kWh.
+07:45,31,EV-021,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+07:45,31,EV-021,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+07:45,31,EV-021,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.572."
+08:00,32,EV-021,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 84.0 kW, SOC: 0.795."
+08:15,33,EV-021,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 47.66 kWh.
+08:15,33,EV-007,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+08:15,33,EV-022,Nissan LEAF 40 kWh,przyjazd,Pojazd przyjechał na stację.
+08:15,33,EV-007,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+08:15,33,EV-022,Nissan LEAF 40 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+08:15,33,EV-007,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.743."
+08:15,33,EV-022,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 41.0 kW, SOC: 0.432."
+08:30,34,EV-007,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 30.1 kW, SOC: 0.800."
+08:30,34,EV-022,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 41.0 kW, SOC: 0.673."
+08:45,35,EV-007,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 35.00 kWh.
+08:45,35,EV-028,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+08:45,35,EV-028,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+08:45,35,EV-022,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 32.2 kW, SOC: 0.801."
+08:45,35,EV-028,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.775."
+09:00,36,EV-022,Nissan LEAF 40 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 26.83 kWh.
+09:00,36,EV-028,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 14.0 kW, SOC: 0.780."
+09:15,37,EV-028,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 32.19 kWh.
+09:45,39,EV-005,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+09:45,39,EV-005,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+09:45,39,EV-005,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.807."
+10:00,40,EV-005,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 28.90 kWh.
+10:15,41,EV-010,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+10:15,41,EV-026,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+10:15,41,EV-032,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+10:15,41,EV-010,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+10:15,41,EV-026,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+10:15,41,EV-032,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 3.
+10:15,41,EV-010,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.546."
+10:15,41,EV-026,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.639."
+10:15,41,EV-032,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 79.8 kW, SOC: 0.772."
+10:30,42,EV-032,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 18.75 kWh.
+10:30,42,EV-010,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 96.7 kW, SOC: 0.780."
+10:30,42,EV-026,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 72.1 kW, SOC: 0.796."
+10:45,43,EV-010,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 51.63 kWh.
+10:45,43,EV-026,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 45.84 kWh.
+11:45,47,EV-001,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+11:45,47,EV-001,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+11:45,47,EV-001,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.743."
+12:00,48,EV-020,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+12:00,48,EV-020,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+12:00,48,EV-001,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 21.8 kW, SOC: 0.773."
+12:00,48,EV-020,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.774."
+12:15,49,EV-001,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 33.05 kWh.
+12:15,49,EV-002,Nissan LEAF 40 kWh,przyjazd,Pojazd przyjechał na stację.
+12:15,49,EV-002,Nissan LEAF 40 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+12:15,49,EV-020,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 21.9 kW, SOC: 0.801."
+12:15,49,EV-002,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 41.0 kW, SOC: 0.482."
+12:30,50,EV-020,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 34.05 kWh.
+12:30,50,EV-004,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+12:30,50,EV-004,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+12:30,50,EV-002,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 41.0 kW, SOC: 0.723."
+12:30,50,EV-004,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.638."
+12:45,51,EV-002,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 24.0 kW, SOC: 0.807."
+12:45,51,EV-004,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 73.5 kW, SOC: 0.808."
+13:00,52,EV-002,Nissan LEAF 40 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 24.91 kWh.
+13:00,52,EV-004,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 46.18 kWh.
+13:30,54,EV-025,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+13:30,54,EV-025,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+13:30,54,EV-025,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 88.8 kW, SOC: 0.800."
+13:45,55,EV-025,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 20.86 kWh.
+14:30,58,EV-008,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+14:30,58,EV-015,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+14:30,58,EV-019,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+14:30,58,EV-008,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+14:30,58,EV-015,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+14:30,58,EV-019,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 3.
+14:30,58,EV-008,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.776."
+14:30,58,EV-015,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.558."
+14:30,58,EV-019,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 103.5 kW, SOC: 0.813."
+14:45,59,EV-019,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 24.32 kWh.
+14:45,59,EV-008,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 19.3 kW, SOC: 0.799."
+14:45,59,EV-015,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 88.3 kW, SOC: 0.768."
+15:00,60,EV-008,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 32.46 kWh.
+15:00,60,EV-015,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 49.65 kWh.
+15:00,60,EV-011,Nissan LEAF 40 kWh,przyjazd,Pojazd przyjechał na stację.
+15:00,60,EV-011,Nissan LEAF 40 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+15:00,60,EV-011,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 41.0 kW, SOC: 0.705."
+15:15,61,EV-014,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+15:15,61,EV-014,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+15:15,61,EV-011,Nissan LEAF 40 kWh,zmiana_mocy,"Moc chwilowa: 23.2 kW, SOC: 0.807."
+15:15,61,EV-014,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.733."
+15:30,62,EV-011,Nissan LEAF 40 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 15.09 kWh.
+15:30,62,EV-013,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+15:30,62,EV-013,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+15:30,62,EV-014,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 29.2 kW, SOC: 0.787."
+15:30,62,EV-013,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.588."
+15:45,63,EV-014,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 34.78 kWh.
+15:45,63,EV-029,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+15:45,63,EV-029,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+15:45,63,EV-013,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 87.3 kW, SOC: 0.795."
+15:45,63,EV-029,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.549."
+16:00,64,EV-013,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 49.43 kWh.
+16:00,64,EV-006,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+16:00,64,EV-006,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+16:00,64,EV-029,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 116.5 kW, SOC: 0.824."
+16:00,64,EV-006,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.739."
+16:15,65,EV-029,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 56.29 kWh.
+16:15,65,EV-017,Hyundai IONIQ 5 77.4 kWh,przyjazd,Pojazd przyjechał na stację.
+16:15,65,EV-017,Hyundai IONIQ 5 77.4 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+16:15,65,EV-006,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 31.8 kW, SOC: 0.800."
+16:15,65,EV-017,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.703."
+16:30,66,EV-006,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 35.39 kWh.
+16:30,66,EV-017,Hyundai IONIQ 5 77.4 kWh,zmiana_mocy,"Moc chwilowa: 39.8 kW, SOC: 0.779."
+16:45,67,EV-017,Hyundai IONIQ 5 77.4 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 38.25 kWh.
+17:30,70,EV-003,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+17:30,70,EV-012,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+17:30,70,EV-003,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+17:30,70,EV-012,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+17:30,70,EV-003,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.680."
+17:30,70,EV-012,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.622."
+17:45,71,EV-031,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+17:45,71,EV-031,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 3.
+17:45,71,EV-003,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 56.7 kW, SOC: 0.818."
+17:45,71,EV-012,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 57.1 kW, SOC: 0.762."
+17:45,71,EV-031,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 80.5 kW, SOC: 0.780."
+18:00,72,EV-003,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 41.24 kWh.
+18:00,72,EV-012,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 41.35 kWh.
+18:00,72,EV-031,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 18.91 kWh.
+19:15,77,EV-016,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+19:15,77,EV-016,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+19:15,77,EV-016,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.779."
+19:30,78,EV-016,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 28.90 kWh.
+19:30,78,EV-018,BMW i4 eDrive40,przyjazd,Pojazd przyjechał na stację.
+19:30,78,EV-018,BMW i4 eDrive40,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+19:30,78,EV-018,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 123.0 kW, SOC: 0.688."
+19:45,79,EV-023,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+19:45,79,EV-023,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 2.
+19:45,79,EV-018,BMW i4 eDrive40,zmiana_mocy,"Moc chwilowa: 44.7 kW, SOC: 0.774."
+19:45,79,EV-023,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.694."
+20:00,80,EV-018,BMW i4 eDrive40,koniec_ladowania,Sesja zakończona. Dostarczono 39.42 kWh.
+20:00,80,EV-023,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 46.7 kW, SOC: 0.801."
+20:15,81,EV-023,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 38.91 kWh.
+21:30,86,EV-024,Volvo EX30 69 kWh,przyjazd,Pojazd przyjechał na stację.
+21:30,86,EV-024,Volvo EX30 69 kWh,start_ladowania,Rozpoczęto sesję na ładowarce nr 1.
+21:30,86,EV-024,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 118.8 kW, SOC: 0.748."
+21:45,87,EV-024,Volvo EX30 69 kWh,zmiana_mocy,"Moc chwilowa: 33.6 kW, SOC: 0.815."
+22:00,88,EV-024,Volvo EX30 69 kWh,koniec_ladowania,Sesja zakończona. Dostarczono 35.81 kWh.

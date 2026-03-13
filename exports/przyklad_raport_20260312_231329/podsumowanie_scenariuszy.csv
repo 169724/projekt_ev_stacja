@@ -1,0 +1,5 @@
+scenariusz,liczba_sesji_wygenerowanych,sesje_zakonczone,sesje_rezygnacja,sesje_niedokonczone,sesje_niedokonczone_w_kolejce,moc_szczytowa_kw,prad_szczytowy_a,srednia_moc_kw,max_kolejka,sredni_czas_oczekiwania_min,sredni_czas_ladowania_min,srednia_energia_na_sesje_kwh,energia_calkowita_kwh,wykorzystanie_ladowarek_proc,typ_ladowarki,limit_mocy_stacji_kw,liczba_ladowarek,liczba_sesji_bazowa
+Lato - dzień roboczy,39,39,0,0,0,600.0,1500.0,56.295,0,0.0,23.846,32.565,1270.023,3.994,DC,600.0,6,36
+Lato - weekend,42,42,0,0,0,423.504,1058.761,58.826,0,0.0,23.929,31.598,1327.114,4.341,DC,600.0,6,36
+Zima - dzień roboczy,34,34,0,0,0,331.899,829.748,52.371,0,0.0,27.353,34.75,1181.5,4.862,DC,600.0,6,36
+Zima - weekend,32,32,0,0,0,345.316,863.29,50.217,0,0.0,27.656,35.403,1132.894,4.688,DC,600.0,6,36

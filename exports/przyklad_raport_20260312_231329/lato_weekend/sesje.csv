@@ -1,0 +1,43 @@
+sesja_id,pojazd,segment,pojemnosc_baterii_kwh,soc_poczatkowy,soc_docelowy,soc_koncowy,przyjazd,start_ladowania,koniec_ladowania,czas_oczekiwania_min,czas_ladowania_min,energia_planowana_kwh,energia_dostarczona_kwh,slot_ladowarki,status
+EV-003,Volvo EX30 69 kWh,crossover,69.0,0.416,0.809,0.809,00:45,00:45,01:00,0.0,15.0,27.146,27.146,1,zakonczona
+EV-037,BMW i4 eDrive40,sedan,81.1,0.203,0.807,0.807,01:00,01:00,01:30,0.0,30.0,49.042,49.042,1,zakonczona
+EV-008,Volvo EX30 69 kWh,crossover,69.0,0.263,0.781,0.781,06:00,06:00,06:30,0.0,30.0,35.742,35.742,1,zakonczona
+EV-020,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.385,0.772,0.772,07:00,07:00,07:15,0.0,15.0,29.945,29.945,1,zakonczona
+EV-042,Volvo EX30 69 kWh,crossover,69.0,0.206,0.789,0.789,08:45,08:45,09:15,0.0,30.0,40.241,40.241,1,zakonczona
+EV-017,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.453,0.81,0.81,09:15,09:15,09:30,0.0,15.0,27.628,27.628,1,zakonczona
+EV-035,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.5,0.774,0.774,09:15,09:15,09:30,0.0,15.0,21.202,21.202,2,zakonczona
+EV-010,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.159,0.766,0.766,09:45,09:45,10:15,0.0,30.0,46.999,46.999,1,zakonczona
+EV-034,Nissan LEAF 40 kWh,hatchback,40.0,0.199,0.818,0.818,10:00,10:00,10:45,0.0,45.0,24.763,24.763,2,zakonczona
+EV-002,Nissan LEAF 40 kWh,hatchback,40.0,0.423,0.77,0.77,10:15,10:15,10:45,0.0,30.0,13.871,13.871,1,zakonczona
+EV-041,Nissan LEAF 40 kWh,hatchback,40.0,0.16,0.799,0.799,10:45,10:45,11:30,0.0,45.0,25.557,25.557,1,zakonczona
+EV-029,BMW i4 eDrive40,sedan,81.1,0.266,0.796,0.796,11:00,11:00,11:30,0.0,30.0,42.958,42.958,2,zakonczona
+EV-040,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.345,0.806,0.806,11:30,11:30,12:00,0.0,30.0,35.679,35.679,1,zakonczona
+EV-013,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.197,0.827,0.827,11:45,11:45,12:15,0.0,30.0,48.772,48.772,2,zakonczona
+EV-024,Volvo EX30 69 kWh,crossover,69.0,0.358,0.791,0.79,11:45,11:45,12:00,0.0,15.0,29.839,29.839,3,zakonczona
+EV-033,Nissan LEAF 40 kWh,hatchback,40.0,0.449,0.778,0.778,11:45,11:45,12:15,0.0,30.0,13.186,13.186,4,zakonczona
+EV-012,Volvo EX30 69 kWh,crossover,69.0,0.302,0.781,0.781,12:00,12:00,12:15,0.0,15.0,33.03,33.03,1,zakonczona
+EV-016,BMW i4 eDrive40,sedan,81.1,0.231,0.781,0.781,12:15,12:15,12:45,0.0,30.0,44.643,44.643,1,zakonczona
+EV-011,Nissan LEAF 40 kWh,hatchback,40.0,0.35,0.771,0.77,12:30,12:30,13:00,0.0,30.0,16.81,16.81,2,zakonczona
+EV-004,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.377,0.77,0.769,12:45,12:45,13:00,0.0,15.0,30.363,30.363,1,zakonczona
+EV-007,Volvo EX30 69 kWh,crossover,69.0,0.313,0.82,0.819,12:45,12:45,13:15,0.0,30.0,34.937,34.937,3,zakonczona
+EV-019,Volvo EX30 69 kWh,crossover,69.0,0.348,0.783,0.783,12:45,12:45,13:00,0.0,15.0,30.049,30.049,4,zakonczona
+EV-028,BMW i4 eDrive40,sedan,81.1,0.298,0.818,0.818,13:00,13:00,13:30,0.0,30.0,42.149,42.149,1,zakonczona
+EV-038,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.428,0.801,0.801,13:00,13:00,13:15,0.0,15.0,28.868,28.868,2,zakonczona
+EV-006,Volvo EX30 69 kWh,crossover,69.0,0.374,0.781,0.781,13:15,13:15,13:30,0.0,15.0,28.124,28.124,2,zakonczona
+EV-022,Nissan LEAF 40 kWh,hatchback,40.0,0.463,0.766,0.766,13:15,13:15,13:45,0.0,30.0,12.108,12.108,3,zakonczona
+EV-023,Volvo EX30 69 kWh,crossover,69.0,0.379,0.793,0.793,13:15,13:15,13:30,0.0,15.0,28.597,28.597,4,zakonczona
+EV-009,BMW i4 eDrive40,sedan,81.1,0.416,0.788,0.788,13:30,13:30,13:45,0.0,15.0,30.228,30.228,1,zakonczona
+EV-032,Volvo EX30 69 kWh,crossover,69.0,0.276,0.814,0.814,13:45,13:45,14:15,0.0,30.0,37.099,37.099,1,zakonczona
+EV-021,Volvo EX30 69 kWh,crossover,69.0,0.386,0.762,0.761,14:15,14:15,14:30,0.0,15.0,25.891,25.891,1,zakonczona
+EV-018,BMW i4 eDrive40,sedan,81.1,0.384,0.805,0.805,14:45,14:45,15:00,0.0,15.0,34.212,34.212,1,zakonczona
+EV-001,Volvo EX30 69 kWh,crossover,69.0,0.483,0.816,0.816,15:00,15:00,15:15,0.0,15.0,23.007,23.007,1,zakonczona
+EV-014,Volvo EX30 69 kWh,crossover,69.0,0.256,0.828,0.827,15:00,15:00,15:30,0.0,30.0,39.433,39.433,2,zakonczona
+EV-005,BMW i4 eDrive40,sedan,81.1,0.376,0.814,0.813,15:30,15:30,16:00,0.0,30.0,35.478,35.478,1,zakonczona
+EV-015,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.259,0.767,0.767,15:45,15:45,16:15,0.0,30.0,39.308,39.308,2,zakonczona
+EV-026,BMW i4 eDrive40,sedan,81.1,0.262,0.806,0.806,15:45,15:45,16:15,0.0,30.0,44.091,44.091,3,zakonczona
+EV-027,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.516,0.776,0.776,16:15,16:15,16:30,0.0,15.0,20.102,20.102,1,zakonczona
+EV-036,BMW i4 eDrive40,sedan,81.1,0.539,0.795,0.795,16:30,16:30,16:45,0.0,15.0,20.788,20.788,1,zakonczona
+EV-025,Volvo EX30 69 kWh,crossover,69.0,0.206,0.799,0.799,17:00,17:00,17:30,0.0,30.0,40.895,40.895,1,zakonczona
+EV-039,BMW i4 eDrive40,sedan,81.1,0.446,0.769,0.769,17:00,17:00,17:15,0.0,15.0,26.242,26.242,2,zakonczona
+EV-030,Hyundai IONIQ 5 77.4 kWh,crossover,77.4,0.216,0.763,0.763,20:45,20:45,21:15,0.0,30.0,42.361,42.361,1,zakonczona
+EV-031,Volvo EX30 69 kWh,crossover,69.0,0.449,0.822,0.822,23:00,23:00,23:15,0.0,15.0,25.731,25.731,1,zakonczona
