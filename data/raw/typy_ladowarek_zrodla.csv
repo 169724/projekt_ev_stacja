@@ -1,0 +1,5 @@
+typ_id,nazwa,rodzaj_pradu,napiecie_zrodlo_v,moc_min_kw,moc_typowa_kw,moc_max_kw,opis,zrodlo_nazwa,zrodlo_url,status_danych
+AC_L2,Ładowarka AC poziom 2,AC,208-240,7.2,11.0,19.2,Publiczna lub flotowa ładowarka AC; typowe 7.2 kW, U.S. DOE FEMP / US DOT,https://www.energy.gov/femp/zev-ready-step-2-review-zev-and-evse-training-materials,surowe
+DC_50,Szybka ładowarka DC 50 kW,DC,400-800,50.0,50.0,50.0,Typowy publiczny szybki punkt DCFC, U.S. DOE FEMP,https://www.energy.gov/femp/zev-ready-step-2-review-zev-and-evse-training-materials,surowe
+DC_150,Ładowarka XFC 150 kW,DC,400-1000,150.0,150.0,150.0,Typowy punkt XFC według DOE FEMP i NREL, U.S. DOE FEMP / NREL,https://docs.nrel.gov/docs/fy23osti/85654.pdf,surowe
+DC_500,Ładowarka DC HPC do 500 kW,DC,400-1000,150.0,350.0,500.0,AFDC podaje że publiczne DC fast charging osiąga do 500 kW, DOE AFDC,https://afdc.energy.gov/fuels/electricity-stations,surowe

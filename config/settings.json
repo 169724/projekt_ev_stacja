@@ -1,0 +1,28 @@
+{
+  "nazwa_aplikacji": "Symulator stacji ładowania EV",
+  "wersja": "1.0.0",
+  "krok_czasowy_min": 15,
+  "domyslne_parametry_stacji": {
+    "liczba_ladowarek": 6,
+    "typ_ladowarki": "DC",
+    "moc_ladowarki_kw": 150.0,
+    "limit_mocy_stacji_kw": 600.0,
+    "sprawnosc": 0.94,
+    "napiecie_v": 400
+  },
+  "domyslne_parametry_pojazdow": {
+    "liczba_sesji": 36,
+    "miks_pojazdow": "Zróżnicowana",
+    "soc_poczatkowy_min": 0.15,
+    "soc_poczatkowy_max": 0.55,
+    "soc_docelowy": 0.80,
+    "maks_czas_oczekiwania_min": 45,
+    "ziarno": 42
+  },
+  "domyslne_scenariusze": [
+    "lato_dzien_roboczy",
+    "lato_weekend",
+    "zima_dzien_roboczy",
+    "zima_weekend"
+  ]
+}
